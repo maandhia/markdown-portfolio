@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+this is my ul:
+* item 1
+* item 2
+* item 3
